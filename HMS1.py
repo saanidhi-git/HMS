@@ -1,5 +1,3 @@
-from HMS.data import *  # Ensure maincourse and beverages are defined in data.py
-
 class Menu:
     def __init__(self, maincourse, beverages):
         self.maincourse = maincourse
